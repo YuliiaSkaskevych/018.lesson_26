@@ -1,0 +1,30 @@
+.categories {
+    margin: 0 auto;
+    width: 200px;
+    padding: 20px;
+	float: left;
+}
+
+.products {
+   margin: 0 auto;
+   width: 200px;
+   padding: 20px;
+}
+
+.product-detail {
+    margin: 0 auto;
+    width: 200px;
+    position: absolute;
+    right: 0;
+}
+
+.btn_buy {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
